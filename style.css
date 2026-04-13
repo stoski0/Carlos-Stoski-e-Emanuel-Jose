@@ -3,3 +3,9 @@
 body{background-color:#B22222;}
 font-weight: bold;
 }
+body{
+    background-color: bisque;
+}
+.galeria{
+    width: 50%;
+}
