@@ -1,11 +1,14 @@
+.importante {
 
-.importante{
-body{background-color:#B22222;}
-font-weight: bold;
+    font-weight: bold;
 }
-body{
-    background-color: bisque;
-}
-.galeria{
+
+
+.galeria {
     width: 50%;
+}
+
+body {
+    background-color: bisque;
+    color: aliceblue;
 }
