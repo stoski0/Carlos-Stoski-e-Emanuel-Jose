@@ -11,15 +11,19 @@
 body {
     background-color: bisque;
     color: aliceblue;
+    display: flex;
+ align-items: baseline;
+
 }
+
 .links {
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
-a{
+
+a {
     margin: 20px;
     padding: 20px;
     background-color: beige;
 
 }
-
